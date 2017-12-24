@@ -77,7 +77,7 @@ var loadUser = function loadUser() {
         if (this.status === 200) {
             console.log('it works');
         } else {
-            console.log('File couldn\'t found');
+            console.log('There is something wrong');
         }
     };
 };
